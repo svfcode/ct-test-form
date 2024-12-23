@@ -1,0 +1,15 @@
+.ct-form-success {
+    background: #dff0d8;
+    color: #3c763d;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+}
+
+.ct-form-spam {
+    background: #f2d2d2;
+    color: #a94442;
+    padding: 15px;
+    margin-bottom: 20px;
+}
